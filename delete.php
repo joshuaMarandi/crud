@@ -1,5 +1,4 @@
 <?php
-//new addition
 include 'connect.php';
 if(isset($_GET['deleteid']))
 {
