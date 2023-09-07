@@ -1,3 +1,4 @@
+//good
 <?php
 include 'connect.php';
 $id=$_GET['updateid'];
