@@ -28,7 +28,7 @@ include 'connect.php';
     <th scope="col">mobile</th>
     <th scope="col">password</th>
     <th scope="col">operations</th> 
-    <th scope="col">operations</th> 
+    <th scope=" 
 
 </tr>
 <?php
